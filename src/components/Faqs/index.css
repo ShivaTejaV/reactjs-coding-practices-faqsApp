@@ -1,0 +1,36 @@
+/* Write your code here. */
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+  min-height: 100vh;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #ffffff;
+  min-height: 80vh;
+  min-width: 80vw;
+  font-family: Roboto;
+}
+
+.heading {
+  color: #cb8805;
+  font-size: 8vh;
+}
+
+.faqs-container {
+}
+
+.item {
+  border: 2px #d7dae6;
+}
+
+.faqList {
+  list-style-type: none;
+}

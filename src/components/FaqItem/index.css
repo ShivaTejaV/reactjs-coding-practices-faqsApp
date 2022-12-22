@@ -1,0 +1,35 @@
+.question-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hide {
+  display: none;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+}
+
+.faq {
+  border: solid 2px #d7dae6;
+  border-radius: 3vh;
+  margin: 10vh;
+  padding: 3vh;
+}
+
+.question {
+  color: #52606d;
+}
+
+.horizontal-line {
+  border: 1px solid #e4e7eb;
+}
+
+.answer {
+  color: #9aa5b1;
+  padding-top: 2vh;
+}
